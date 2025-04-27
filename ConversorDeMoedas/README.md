@@ -37,7 +37,7 @@ Certifique-se de ter o Java instalado em sua máquina.
 Clone este repositório:
 
 ```bash
-git clone https://github.com/vklisman/conversor-de-moedas.git
+git clone ttps://github.com/Rebecavitoria45/ConversordeMoedas
 ```
 
 Navegue até o diretório do projeto:
@@ -59,7 +59,4 @@ java Main
 ```
 
 Siga as instruções apresentadas na interface de linha de comando para converter moedas.
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
